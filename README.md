@@ -4,7 +4,7 @@ Durant ma première année de DUT Informatique, j'ai eu l'occasion de recréer l
 
 J'ai pu utiliser les allocations dynamiques afin de gérer la taille du serpent, mais aussi coder pour la première fois une interface graphique, et de perfectionner mes compétences en C. C'est mon tout premier grand projet, et même s'il contient bien des défauts, il m'a permit de vraiment progresser dans ce langage.
 
-Vous trouverez dans le dossier `ressources` (ou [ici]()) le fichier `RAPPORT.pdf` contenant tout notre raisonnement, des screenshots et des explications plus détaillées du code. Je vous mets ci-dessous l'extrait le plus important.
+Vous trouverez dans le dossier `ressources` (ou [ici](https://github.com/nicolasdecorbez/snake/blob/main/ressources/RAPPORT.pdf)) le fichier `RAPPORT.pdf` contenant tout notre raisonnement, des screenshots et des explications plus détaillées du code. Je vous mets ci-dessous l'extrait le plus important.
 
 ## Déroulement du projet
 
